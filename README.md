@@ -1,3 +1,3 @@
 # Team-INU---Robocup-Team-Description-Paper
 
-## This repository will represent Team Description Paper for Team INU for 2026 ROBOCUP SML League
+## This repository contains the Team INU description paper for the 2026 RoboCup Smart Manufacturing League (SML).
